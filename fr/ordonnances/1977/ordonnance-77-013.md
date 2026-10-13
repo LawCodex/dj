@@ -1,0 +1,45 @@
+---
+title: "Ordonnance n° 77-013 sur le maintien de l’ordre public."
+identifier: "77-013"
+type: ordinance
+jurisdiction: dj
+language: fr
+year: 1977
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/ordonnance-n77-013-sur-le-maintien-de-lordre-public/"
+retrieved: 2026-10-13
+---
+
+# Ordonnance n° 77-013 sur le maintien de l’ordre public.
+
+VU les lois constitutionnelles n°s LR/ 77-001 et 002 du 27 juin 1977 ;
+
+Considérant la nécessité d'assurer le maintien de l'ordre sur le territoire national de la République, ;
+
+LE Conseil des Ministres entendu
+
+## Article 1
+
+Sauf autorisation expresse résultant d’un arrêt intervenu dans les conditions fixées par le décret du 23 octobre 1935 relatif au maintien de l’ordre public, tous rassemblements, cortèges, défilés et, d’une manière générale, toutes manifestations sur la voie publique sont interdits.
+
+## Article 2
+
+Demeurent interdites toutes réunions sur la voie publique.
+
+## Article 3
+
+Tout participant aux manifestations, rassemblements, cortèges et défilés non autorisés visés à l’article premier ainsi que tout participant à une réunion sur la voie publique, sera puni d’un emprisonnement de 15 jours à 6 mois sans préjudice des peines propres aux organisateurs prévues par le décret du 23 octobre 1935 ou des peines plus fortes pouvant résulter l’application des articles 108 -1 et suivants du Code pénal.
+
+## Article 4
+
+Toutes dispositions contraires à la présente ordonnance sont abrogées.
+
+## Article 5
+
+La présente ordonnance sera exécutée comme loi d’État, publiée suivant la procédure d’urgence et au «Journal Officiel» de la République de Djibouti.
+
+par le président de la République,
+
+chef du Gouvernement
+
+HASSAN GOULED APTIDON

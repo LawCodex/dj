@@ -1,0 +1,55 @@
+---
+title: "Loi n° 176/AN/02/4ème L portant délégation d’une partie des pouvoirs de l’Assemblée Nationale à la Commission Permanente jusqu’à l’ouverture de la 2ème Session Ordinaire de 2002 dite «Session Budgétaire »."
+identifier: "176/AN/02/4ème L"
+type: law
+jurisdiction: dj
+language: fr
+year: 2002
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/loi-n176-an-02-4eme-l-portant-delegation-dune-partie-des-pouvoirs-de-lassemblee-nationale-a-la-commission-permanente-jusqua-louverture-de-la-2eme-session-ordi/"
+retrieved: 2026-10-13
+---
+
+# Loi n° 176/AN/02/4ème L portant délégation d’une partie des pouvoirs de l’Assemblée Nationale à la Commission Permanente jusqu’à l’ouverture de la 2ème Session Ordinaire de 2002 dite «Session Budgétaire ».
+
+VU La Constitution du 15 septembre 1992,
+
+VU Le Décret n°2001-0053/PRE du 4 mars 2001 portant nomination du Premier Ministre.
+
+VU Le Décret n°2001-0137/PRE du 04 juillet 2001 portant remaniement des membres du Gouvernement et fixant leurs attributions.
+
+## Article 1er
+
+L’Assemblée Nationale délègue une partie de ses pouvoirs à la Commission Permanente jusqu’à l’ouverture de la 2ème Session Ordinaire de 2002 dite «Session Budgétaire» pour légiférer dans les matières précisées ci-dessous pendant l’intersession :
+
+– L’organisation des Pouvoirs Publics ;
+
+– La répartition des compétences entre l’Etat et les collectivités locales ainsi que la création d’offices, d’établissements publics, des sociétés ou d’entreprises nationales ;
+
+– La jouissance et exercice des droits civiques ;
+
+– Les garanties fondamentales accordées aux fonctionnaires civils et militaires ;
+
+– Les principes généraux et l’enseignement, de la culture, des sports et de la jeunesse ;
+
+– Les principes fondamentaux du droit de travail, du droit syndical et de la sécurité sociale ;
+
+– Les lois des finances rectificatives relatives uniquement aux lois votées dans le cadre du budget de l’exercice en cours ;
+
+– Amnistie ;
+
+– Les lois de privatisations ;
+
+RELATIONS INTERNATIONALES
+
+– La ratification des Traités et Accords ;
+
+## Article 2
+
+La présente Loi sera publiée au Journal Officiel de la République de Djibouti, dès sa promulgation.
+
+Le Président de la République,
+
+chef du Gouvernement
+
+ISMAÏL OMAR GUELLEH

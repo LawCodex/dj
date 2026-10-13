@@ -1,0 +1,43 @@
+---
+title: "Loi n° 239/AN/87/1ère L modifiant les dispositions des articles 6 et 7 de la loi n° 47/AN/78 du 18/12/78 instaurant une taxe différentielle sur les automobiles."
+identifier: "239/AN/87/1ère L"
+type: law
+jurisdiction: dj
+language: fr
+year: 1987
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/loi-n239-an-87-1ere-l-modifiant-les-dispositions-des-articles-6-et-7-de-la-loi-n47-an-78-du-18-12-78-instaurant-une-taxe-differentielle-sur-les-automobiles/"
+retrieved: 2026-10-13
+---
+
+# Loi n° 239/AN/87/1ère L modifiant les dispositions des articles 6 et 7 de la loi n° 47/AN/78 du 18/12/78 instaurant une taxe différentielle sur les automobiles.
+
+L'ASSEMBLÉE NATIONALE A ADOPTÉ
+
+LE PRÉSIDENT DE LA RÉPUBLIQUE PROMULGUE
+
+LA LOI DONT LA TENEUR SUIT :
+
+VU Les lois constitutionnelles n°s LR/77-001 et LR/77-002 du 27 juin 1977 ;
+
+VU L'ordonnance n°LR/77-008 en date du 30 juin 1977 ;
+
+VU Le décret n°86-100/PRE du 2 octobre 1986 portant nomination des membres du Gouvernement ;
+
+VU La loi n° 47/AN/78 du 18 décembre 1978 instaurant d'une taxe différentielle sur les automobiles ;
+
+## Article 1er
+
+L’article 6 de la loi susvisée du 18 décembre 1978 est abrogé et remplacé par les dispositions suivantes : « article 6 : le contrôle de l’achat de la vignette est assuré par les agents verbalisateurs de la police de la circulation routière. Ceux-ci reçoivent une quota-part égale à 10 % du montant des amendes qu’ils ont constatées et recouvrées.
+
+## Article 2
+
+L’article 7 de la loi sus-visée du 18 décembre 1978 est abrogé et remplacé par les dispositions suivantes : « article 7 : le défaut d’apposition du timbre adhésif sur le pare-brise ou le non présentation du reçu entraînent l’application d’une amende forfaitaire égale à 50 % du montant de la vignette pour un retard inférieur ou égal à un mois et à 100 % au-delà d’un mois de retard ».
+
+## Article 3
+
+La présente loi sera exécutée comme loi d’État et publiée au Journal Officiel de la République de Djibouti.
+
+Par le Président de la République
+
+HASSAN GOULED APTIDON

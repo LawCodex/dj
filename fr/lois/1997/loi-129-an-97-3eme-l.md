@@ -1,0 +1,37 @@
+---
+title: "Loi n° 129/AN/97/3ème L portant arrêt des Comptes définitifs de l’ONED pour l’exercice 1995."
+identifier: "129/AN/97/3ème L"
+type: law
+jurisdiction: dj
+language: fr
+year: 1997
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/loi-n129-an-97-3eme-l-portant-arret-des-comptes-definitifs-de-loned-pour-lexercice-1995/"
+retrieved: 2026-10-13
+---
+
+# Loi n° 129/AN/97/3ème L portant arrêt des Comptes définitifs de l’ONED pour l’exercice 1995.
+
+VU la constitution du 15 septembre 1992,
+
+VU la loi n° 27/AN/83/1ère L du 3 février portant création de l’ONED,
+
+VU le Décret n° 96-0016 /PRE en date du 27 mars 1996 portant remaniement du gouvernement djiboutien et fixant ses attributions,
+
+VU le décret n°83-105/PR/MI du 23 février 1983 portant statut de l’ONED,
+
+VU le décret n°88-105/PR/MIDI du 21 décembre 1988 portant organisation DE L’ONED,
+
+## Article 1er
+
+Sont approuvés les comptes définitifs de l’ONED pour l’exercice 1995 arrêtés à :
+
+– produits 1.604.630.374
+
+– charges 1.782.503.603
+
+– d’où un résultat d’exploitation 177.873.229
+
+Par le Président de la République,
+
+HASSAN GOULED APTIDON

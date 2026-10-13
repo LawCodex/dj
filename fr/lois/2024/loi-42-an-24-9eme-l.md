@@ -1,0 +1,39 @@
+---
+title: "Loi n° 42/AN/24/9ème L portant approbation des comptes financiers du CERD pour l’exercice 2019."
+identifier: "42/AN/24/9ème L"
+type: law
+jurisdiction: dj
+language: fr
+year: 2024
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/loi-n42-an-24-9eme-l-portant-approbation-des-comptes-financiers-du-cerd-pour-lexercice-2019/"
+retrieved: 2026-10-13
+---
+
+# Loi n° 42/AN/24/9ème L portant approbation des comptes financiers du CERD pour l’exercice 2019.
+
+VU La Constitution du 15 septembre 1992 ; VU La Loi Constitutionnelle n°92/AN/10/6ème L du 21 avril 2010 portant révision de la Constitution ; VU La Loi n°99-0078/PREMFEN du 08 juin 1999 portant sur la définition et la gestion des Etablissements Publics à Caractère Administratif ; VU La Loi n°116/AN/01/4ème L du 21 janvier 2001 portant création du Centre d'Etude et de Recherche de Djibouti ; VU La Loi n°141/AN/01/4ème L du 01 octobre 2001 complétant la Loi n°116/AN/01/4ème L du 21 janvier 2001 portant réorganisation et changement de la dénomination de l'ISERST en Centre d'Etude et de Recherche Scientifique de Djibouti ; VU La Loi n°73/AN/09/6ème L portant création de l'Institut de Recherche Médicinale de Djibouti ; VU La Loi n°19/AN/13/7ème L portant réorganisation du CERD ; VU Le Décret n°2014-272/PR/MENSUR portant création de l'IRAH ; VU Le Décret n°2021-105/PRE du 24 mai 2021 portant nomination du Premier Ministre ; VU Le Décret n°2021-106/PRE du 24 mai 2021 portant nomination des membres du Gouvernement ; VU Le Décret n°2021-114/PRE du 31 mai 2021 fixant les attributions des Ministères ; VU Le Décret n°2022-001/PRE du 02 janvier 2022 portant remaniement Ministériel; VU L'Arrêté n°2022-136/PRE/MENSUR du 27 novembre 2022 portant nomination du Directeur de l'ORREC ; VU L'Arrêté n°2014-458/PR/MENSUR portant nomination des responsables du CERD ; VU L'Arrêté n°2017-135/PR/MENSUR portant nomination du Directeur des Systèmes d'Information du CERD ; VU L'Arrêté n°2018-099/PREMENSUR du 26 novembre 2018 portant renouvellement des membres du Conseil d'Administration du CERD ; VU La Délibération n°01/CERD/2023 portant approbation des comptes financiers du CERD pour l'exercice 2019 ; VU Le Procès-Verbal du Conseil d'Administration du CERD du 25 septembre 2023; VU La Circulaire n°94/PAN du 31/03/2024 portant convocation de l'Assemblée nationale en séance publique ;
+
+Le Conseil des Ministres entendu en sa séance du 24 Octobre 2023.
+
+A ADOPTÉ, EN SA DEUXIÈME SÉANCE PUBLIQUE DU 03/04/2024, LA LOI DONT LA TENEUR SUIT :
+
+## Article 1er
+
+Sont approuvés les Comptes Financiers du CERD pour l’exercice 2019 arrêtés par le Conseil d’Administration comme suit :
+
+Total des produits :………………………………….840 607 283 FDJ
+
+Total des charges :…………………………………..782 465 699 FDJ
+
+Soit un résultat déficitaire de :……………………58 141 584 FDJ
+
+## Article 2
+
+La présente Loi sera enregistrée, communiquée, exécutée et publiée au Journal Officiel de la République de Djibouti dès sa promulgation.
+
+Fait à Djibouti, le 08 Mai 2024
+
+Le Président de la République, Chef du Gouvernement
+
+ISMAÏL OMAR GUELLEH

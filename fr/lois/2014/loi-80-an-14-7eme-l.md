@@ -1,0 +1,107 @@
+---
+title: "Loi n° 80/AN/14/7ème L portant approbation du Schéma Stratégique Intégré (SSI) du secteur des Technologies de l’Information et de la Communication (TIC) en République de Djibouti."
+identifier: "80/AN/14/7ème L"
+type: law
+jurisdiction: dj
+language: fr
+year: 2014
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/loi-n80-an-14-7eme-l-portant-approbation-du-schema-strategique-integre-ssi-du-secteur-des-technologies-de-linformation-et-de-la-communication-tic-en-republique-de-djibouti/"
+retrieved: 2026-10-13
+---
+
+# Loi n° 80/AN/14/7ème L portant approbation du Schéma Stratégique Intégré (SSI) du secteur des Technologies de l’Information et de la Communication (TIC) en République de Djibouti.
+
+VU La Constitution du 15 septembre 1992 ;
+
+VU La Loi n°117/AN/01/4ème L du 21 janvier 2001 portant création et organisation du Ministère de la Communication et de la Culture, chargé des Postes et des Télécommunications ;
+
+VU La loi n°22/AN/03/5ème L du 03 août 2003 définissant la politique nationale en matière de Technologie de l’Information et de la Communication ;
+
+VU La Loi n°80/AN/04/5ème L portant réforme du secteur des Technologies de l’Information et de la Communication ;
+
+VU La Loi n°13/AN/98 du 11 mars 1998 portant réforme du secteur des postes et des télécommunications ;
+
+VU Le Décret n°2013-0044 du 31 mars 2013 portant nomination du Premier Ministre;
+
+VU Le Décret n°2013-0045 du 31 mars 2013 portant nomination des membres du gouvernement ;
+
+VU Le Décret n°2013-0058/PRE du 14 avril 2013 fixant les attributions des Ministères;
+
+VU La Circulaire n°40/PAN du 03/02/2015 portant convocation de la première séance publique de la Session extraordinaire de l’an 2015 ;
+
+Le Conseil des Ministres entendu en sa séance du 14 Octobre 2014.
+
+## Article 1
+
+La Stratégie Nationale de Développement des Technologies de l’Information et de la Communication en République de Djibouti est définie dans le Schéma Stratégique Intégré du secteur des TIC de Djibouti pour une période de 10 ans, allant de 2014 à 2024.
+
+## Article 2
+
+Par la présente loi, sont approuvés :
+
+– La Note d’Orientation Politique du secteur des TIC ;
+
+– Le Schéma Stratégique qui a pour but de mener à bien la politique nationale de Développement des Technologies de l’Information et de la Communication en République de Djibouti et le Plan d’Action qui lui est associé.
+
+## Article 3
+
+Il est créé une Commission nationale, chargée du suivi de mise en œuvre du Schéma Stratégique Intégré du secteur des TIC à Djibouti et de l’évaluation de ses résultats.
+
+Cette commission est présidée par le Premier Ministre.
+
+Elle est composée :
+
+– du Premier Ministre, Président ;
+
+– du Ministre de la Communication, chargé des Postes et des Télécommunications, Vice-président ;
+
+– du Secrétariat Général du Gouvernement ;
+
+– du Ministre du Budget ;
+
+– du Ministre de l’Economie et des Finances ;
+
+– du Ministre de l’Enseignement Supérieur ;
+
+– du Ministre de l’Education et de la Formation Professionnelle ;
+
+– du Ministre du Travail chargé de la Réforme de l’Administration ;
+
+– du Ministre de la Santé ;
+
+– de la Ministre de la Promotion de la Femme et du Planning Familial, chargée des Relations avec le Parlement.
+
+Les membres de la Commission sont désignés par arrêté sur proposition du Ministre de la Communication, chargé des Postes et des Télécommunications.
+
+La Commission établit un rapport annuel sur l’avancement de la mise en œuvre du Schéma Stratégique Intégré du secteur des TIC et le soumet à l’appréciation du Président de la République.
+
+## Article 4
+
+La coordination ainsi que le suivi des actions et projets de mise en application du Schéma Stratégique Intégré sont assurés par le Ministère chargé des Technologies de l’Information et de la Communication.
+
+A cet effet, il est créé, au sein du Ministère chargé des Technologies de l’Information et de la Communication, pour une durée de dix années (2014-2024), une Unité de gestion par Objectif, chargée de la gestion de l’ensemble du schéma stratégique intégré du secteur des TIC de Djibouti.
+
+Cette Unité de Gestion par objectif sera dirigée par un Chef d’Unité ayant rang et prérogative de Directeur Général de l’Administration Centrale.
+
+## Article 5
+
+La mise en œuvre des actions et projets sectoriels est du ressort des Ministères Techniques, des établissements publics et parapublics, des sociétés et organismes sous tutelle de l’Etat, du secteur privé, des associations et ONG, et en partenariat avec les organisations internationale et les organes officiels de gestion, d’exploitation et d’exécution, conformément aux termes du Schéma Stratégique Intégré du secteur des TIC de Djibouti.
+
+## Article 6
+
+Les Ministères Techniques concernés ainsi que les organismes publics, les organismes du secteur privé, des associations et des ONG, sont tenus de respecter, dans toutes leurs actions, les termes et orientations du Schéma Stratégique Intégré du secteur des TIC, de collaborer et d’apporter leur contribution à la politique de l’Etat en la matière.
+
+## Article 7
+
+La présente loi annule et remplace la Loi n°22/AN/03/5ème L du 03 août 2003, définissant la politique nationale en matière des Technologies de l’Information et de la Communication.
+
+## Article 8
+
+La présente loi sera publiée au Journal officiel de la République de Djibouti, dès sa promulgation.
+
+Le Président de la République,
+
+chef du Gouvernement
+
+ISMAÏL OMAR GUELLEH

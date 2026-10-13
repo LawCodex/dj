@@ -1,0 +1,39 @@
+---
+title: "Loi n° 131/AN/90/2ème L portant approbation d’un accord de prêt entre la république de Djibouti et l’Association Internationale de Développement."
+identifier: "131/AN/90/2ème L"
+type: law
+jurisdiction: dj
+language: fr
+year: 1990
+status: unknown
+source: "https://www.journalofficiel.dj/texte-juridique/loi-n131-an-90-2eme-l-portant-approbation-dun-accord-de-pret-entre-la-republique-de-djibouti-et-lassociation-internationale-de-developpement/"
+retrieved: 2026-10-13
+---
+
+# Loi n° 131/AN/90/2ème L portant approbation d’un accord de prêt entre la république de Djibouti et l’Association Internationale de Développement.
+
+L’ASSEMBLEE NATIONALE A ADOPTE.
+
+LE PRESIDENT DE LA REPUBLIQUE PROMULGUE.
+
+LA LOI DONT LA TENEUR SUIT :
+
+VU les lois constitutionnelles n°LR/77-001 et LR/77-002 du 27 juin 1977 ;
+
+VU l’ordonnance n°LR/77-008 du 30 juin 1977 ;
+
+VU le décret n°87-098/PRE du 23 novembre 1987 portant nomination des membres du Gouvernement.
+
+## Article 1er
+
+Est approuvé l’accord de prêt entre l’Association Internationale de Développement et la République de Djibouti portant sur un montant de 4,6 millions D.T.S. (soit équivalent à 5.82 Millions de Dollars US), tel que annexé à la présente loi.
+
+## Article 2
+
+La présente loi sera publiée au Journal Officiel de la République de Djibouti, dès sa promulgation.
+
+Fait à Djibouti, le 31 octobre 1990.
+
+Par le Président de la République,
+
+HASSAN GOULED APTIDON
